@@ -165,3 +165,64 @@ footer{
     border-bottom: 1px dotted steelblue;
     padding: 5px 0;
 }
+#content{
+    padding: 30px 0;
+}
+#content h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3c9c96;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.days{
+    background-color: steelblue;
+    color: whitesmoke;
+    padding: 10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.meduim{
+    background-color: red;
+    color: whitesmoke;
+    padding: 10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.nature{
+    background-color: green;
+    background-color: steelblue;
+    color: whitesmoke;
+    padding: 10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+#content img{
+    text-align: left;
+    display: block;
+    margin: 20px 0;
+}
+.itinerary{
+    margin: 20px 0;
+ }
+ .itinerary h4{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 20px;
+     padding: 10px 0;
+ }
+ .itinerary p{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 16px;
+ }
+ .book{
+     background-color: green;
+     color: white;
+     padding:10px 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 16px;
+     display: inline-block;
+ }
+ .contact_boxes{
+    display: flex;
+ }
+ 
